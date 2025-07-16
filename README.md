@@ -1,4 +1,4 @@
-# 🔐 Login Page – Fun Project by RAJ
+# 🔐 Login Page – Fun Project by me
 
 A clean, responsive login and register UI built with 💻 HTML, 🎨 CSS, and 🧠 JavaScript.
 
@@ -10,8 +10,6 @@ A clean, responsive login and register UI built with 💻 HTML, 🎨 CSS, and �
 - CSS3 (with external BoxIcons)
 - Vanilla JavaScript
 
-## 📸 Screenshot
-*Add one here later if you want to show off the UI!*
 
 ## 💡 Features
 - Smooth login/signup switch
